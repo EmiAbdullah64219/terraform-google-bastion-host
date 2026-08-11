@@ -63,3 +63,4 @@ Notes and usage details for terraform-google-bastion-host.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
